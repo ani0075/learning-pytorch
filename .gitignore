@@ -1,0 +1,4 @@
+/MNIST/data
+/OneShotLearning/data
+/OneShotLearning/orl_faces
+*.tar
