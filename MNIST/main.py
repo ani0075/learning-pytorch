@@ -139,11 +139,3 @@ print("Time taken: {}".format(elapsed))
 figure = plt.plot(iteration, loss_history)
 plt.savefig("loss_curve.png")
 
-
-
-
-
-
-
-
-
